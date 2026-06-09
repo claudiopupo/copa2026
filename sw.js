@@ -1,5 +1,5 @@
 // Copa do Mundo FIFA 2026 — Service Worker
-const CACHE_NAME = 'copa2026-v1';
+const CACHE_NAME = 'copa2026-v2';
 const ASSETS = [
   './',
   './index.html',
